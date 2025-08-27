@@ -4,7 +4,7 @@ A browser-based real-time speech translator for online meetings (Zoom/GMeet) tha
 
 ## 🚀 New Features (Azure Migration)
 
-- **🌍 Native Multilingual Support**: Automatic language detection for 90+ languages
+- **🌍 Native Multilingual Support**: Automatic language detection for Muliple languages
 - **🔄 Real-time Translation**: Built-in translation without additional API calls
 - **🎯 Auto Language Detection**: Azure automatically identifies spoken language
 - **⚡ Lower Latency**: Improved performance with Azure's optimized models
@@ -319,3 +319,4 @@ For issues and questions:
 ---
 
 **🎉 Successfully migrated to Azure Speech Services with native multilingual support and real-time translation!**
+
