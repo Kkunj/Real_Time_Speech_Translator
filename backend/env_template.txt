@@ -1,0 +1,11 @@
+# Azure Speech Services Configuration
+AZURE_SPEECH_KEY=your_azure_speech_key_here
+AZURE_SPEECH_REGION=centralindia
+
+# Azure Translator API Configuration (Optional - for better translation quality)
+AZURE_TRANSLATOR_KEY=your_azure_translator_key_here
+AZURE_TRANSLATOR_LOCATION=centralindia
+
+# Backend Configuration
+HOST=0.0.0.0
+PORT=8000
