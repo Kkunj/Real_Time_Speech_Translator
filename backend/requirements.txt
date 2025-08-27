@@ -1,6 +1,7 @@
 setuptools>=65.0.0
 wheel
 build
+setuptools-scm
 # Core FastAPI and server dependencies
 fastapi==0.104.1
 uvicorn[standard]==0.24.0
@@ -20,4 +21,5 @@ aiofiles==23.2.1
 
 # Additional utilities (optional but recommended)
 numpy==1.24.3
+
 
